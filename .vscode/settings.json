@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.watcherExclude": {
+        "/home/vinayak/fastbook_sessions/cassavaLeafDiseasePrediction/data": true
+    }
+}
