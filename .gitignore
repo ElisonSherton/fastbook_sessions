@@ -4,3 +4,8 @@
 
 # Do not track data in the cassavaLeafDiseasePrediction folder
 /cassavaLeafDiseasePrediction/data/*
+/cassavaLeafDiseasePrediction/notebooks/baselineModel.pkl
+
+# Do not track any models
+*/models/*
+*/mlcClassification.pkl
