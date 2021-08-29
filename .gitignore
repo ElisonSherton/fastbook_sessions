@@ -9,3 +9,5 @@
 # Do not track any models
 */models/*
 */mlcClassification.pkl
+*/bceClassification.pkl
+*/ceClassification.pkl
